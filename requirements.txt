@@ -1,6 +1,7 @@
 streamlit
-scikit-learn
 pandas
-openpyxl
-wordcloud
+numpy
 matplotlib
+wordcloud
+openpyxl
+scikit-learn==1.6.1
